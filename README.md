@@ -1,4 +1,4 @@
-# Rolodex-monsters-
+# Monsters Rolodex page
 
 ## Visit the demo
 https://cerulean-llama-e8b717.netlify.app/
